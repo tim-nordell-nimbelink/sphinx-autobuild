@@ -8,6 +8,7 @@ from colorama import Fore, Style
 
 SPHINX_BUILD_OPTIONS = (
     ("b", "builder"),
+    ("M", "buildername"),
     ("a", None),
     ("E", None),
     ("d", "path"),
